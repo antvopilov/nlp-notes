@@ -1,2 +1,7 @@
-# nlp-notes
-NLP notes
+# NLP notes
+
+## Scripts
+
+## python strings
+
+- [str-translate](scripts/str_translate.py)
